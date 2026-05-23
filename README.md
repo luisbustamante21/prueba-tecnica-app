@@ -226,7 +226,7 @@ Con el objetivo de mantener un rendimiento fluido incluso con grandes volúmenes
 
 Antes de ejecutar el proyecto es necesario contar con:
 
-- Node.js (LTS recomendado)
+- Node.js (22.9.0)
 - npm o yarn
 - Expo CLI
 - Emulador Android/iOS o dispositivo físico con Expo Go
