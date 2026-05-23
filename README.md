@@ -238,7 +238,7 @@ Antes de ejecutar el proyecto es necesario contar con:
 ## 1. Clonar el repositorio
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/luisbustamante21/prueba-tecnica-app.git
 cd prueba-tecnica-app
 ```
 
@@ -261,7 +261,7 @@ yarn install
 Crear un archivo `.env` en la raíz del proyecto:
 
 ```env
-EXPO_PUBLIC_API_URL=https://api.tudominio.com
+EXPO_PUBLIC_API_URL=https://dummyjson.com
 ```
 
 ---
